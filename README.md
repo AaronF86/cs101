@@ -6,4 +6,4 @@ This repository contains all my submissions and work for the projects and assign
 
 ```plaintext
 CS101/
-├── assignment1.10/       # Assignment 1.10 - Static HTML webpage to learn/reintroduce CSS
+├── assignment1.7/       # Assignment 1.7 - Static HTML webpage to learn/reintroduce CSS
