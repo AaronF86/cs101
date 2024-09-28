@@ -27,7 +27,6 @@ header h4 {
     margin: 0%;
 }
 
-
 .ribben-section {
     background-color: var(--color-bg-alt);
     padding-left: 2%;
@@ -41,6 +40,38 @@ header h4 {
     justify-content:space-around;
 }
 
+table {
+    border-collapse: separate;
+    border-spacing: 0 10px; 
+    width: 100%;
+
+}
+
+td {
+    border: none;
+    padding: 10px 20px;
+    width: 50%;
+    text-align: center;
+}
+
+tr {
+    border-radius: 15px;
+    background-color: transparent;
+    margin-bottom: 10px;
+    height: 50px;
+    box-shadow: 0 0 3px black;
+    transition: transform 0.5s;
+}
+
+tr:hover {
+    transform: scale(1.05);
+}
+
+tr td:first-child {
+    border-right: 1px solid #ccc;
+}
+
+
 article {
     background-color: var(--color-bg-alt);
     border-radius: 5px;
@@ -48,11 +79,12 @@ article {
     width: 45vw;
     margin: 1%;
     box-shadow: 0 0 3px black;
+    transition: transform 0.5s;
+
 }
 
 article:hover {
     transform: scale(1.05);
-    transition: transform 0.5s;
 }
 
 #widthDouble {

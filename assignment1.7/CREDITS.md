@@ -14,5 +14,5 @@
 
 ### 3. Vulcan_flyby
 - **Creator:** Andrew
-- **Source:** [Vulcan Flying By](URL-to-the-image) (add the actual image URL here)
+- **Source:** [Flickr](https://www.flickr.com/photos/arg_flickr/18948716621/)
 - **License:** [Creative Commons Attribution 2.0 (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
