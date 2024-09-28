@@ -91,6 +91,7 @@ header h4 {
 }
 
 .ribben-section {
+    text-align: center;
     background-color: var(--color-bg-alt);
     padding-left: 2%;
     margin-bottom: 10%;
@@ -98,6 +99,10 @@ header h4 {
 
 #basic-text {
     width: 50%;
+}
+
+#basic-text p {
+    text-align: center;
 }
 
 .flex-container {
@@ -186,6 +191,13 @@ article:hover {
 .source-list li {
     padding: 10px; 
     border-bottom: 1px solid #ddd; 
+}
+
+footer {
+    background-color: var(--color-bg-alt);
+    text-align: center;
+    padding: 1%;
+    margin-top: 5%;
 }
 
 @media screen and (max-width: 720px) {
