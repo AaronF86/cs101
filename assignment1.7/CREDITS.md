@@ -16,3 +16,8 @@
 - **Creator:** Andrew
 - **Source:** [Flickr](https://www.flickr.com/photos/arg_flickr/18948716621/)
 - **License:** [Creative Commons Attribution 2.0 (CC BY 2.0)](https://creativecommons.org/licenses/by/2.0/)
+
+### 3. Vulcan_wing
+- **Creator:** Andy Leitch
+- **Source:** [Flickr](https://commons.wikimedia.org/wiki/File:Comparison_of_Vulcan_Planforms.jpg)
+- **License:** [Creative Commons Attribution-Share-Alike 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
