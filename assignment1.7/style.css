@@ -203,11 +203,16 @@ footer {
 @media screen and (max-width: 720px) {
     .flex-container {
         flex-direction: column;
+        align-content: center;
+    }
+
+    .flex-content {
+      text-align: center;
+      align-self: center;
     }
 
     body {
         display: flex;
-        align-items: center;
         flex-direction: column;
     }
 
