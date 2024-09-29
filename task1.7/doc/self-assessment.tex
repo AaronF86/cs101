@@ -2,11 +2,10 @@
 \usepackage{graphicx}
 \usepackage[margin=1in]{geometry}
 \usepackage{titlesec}
+\usepackage{hyperref} % Add this line for hyperlink support
 
 \titleformat{\section}{\large\bfseries}{\thesection}{.8em}{}
 \titlespacing*{\section}{0pt}{1.5ex plus 1ex minus .2ex}{0.5ex plus .2ex}
-
-
 
 \title{Self-Evaluation}
 \author{Aaron Fulton}
@@ -18,6 +17,7 @@
 \newpage
 
 \section{Page Appearance in Different Web Browsers}
+\label{sec:page-appearance} 
 
 \textbf{Browsers tested:}
 \begin{itemize}
@@ -37,11 +37,13 @@
 \textbf{Conclusion:} The page works well on all desktop browsers tested, with minor issues observed on mobile.
 
 \section{Link Functionality}
+\label{sec:link-functionality} 
 
 \textbf{Test Summary:}
 All links were tested, and 5 of 5 links worked correctly.
 
 \section{HTML and CSS Validation Results}
+\label{sec:validation-results} 
 
 \subsection{HTML Validation}
 \textbf{Validation Tool:} \texttt{https://validator.w3.org}
@@ -71,6 +73,7 @@ All links were tested, and 5 of 5 links worked correctly.
 \textbf{Summary:} The CSS is valid.
 
 \section{Final Remarks}
+\label{sec:final-remarks} 
 
 \textbf{Overall:} The page worked well on several browsers of different sizes and met the requirements of the assignment. 
 While my goal was to create a page with more responsive features including a dark mode theme and a mobile-friendly layout 
